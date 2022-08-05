@@ -1,1 +1,1 @@
-# Inspirit-AI
+# Artificial Intelligence
